@@ -1,2 +1,2 @@
 # discourse-yotsuba
-discourse theme 
+Theme for discourse based on Yotsuba A 
