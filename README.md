@@ -1,3 +1,3 @@
 # discourse-yotsuba
 Theme for discourse based on Yotsuba A 
-<img src="https://cdn.discordapp.com/attachments/666252977127817249/684015252827930672/unknown.png">
+<img src="https://d11a6trkgmumsb.cloudfront.net/original/3X/e/b/eb1207782057e33445e7aa0a41ecc9cc5d34428e.png">
